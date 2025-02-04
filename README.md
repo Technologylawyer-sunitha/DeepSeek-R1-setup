@@ -1,7 +1,7 @@
 # DeepSeek-R1-setup
-A guide to running DeepSeek R1 locally using Ollama
-Follow these simple steps to run the DeepSeek R1 on your computer or laptop
-Go to ollama.com and download and install ollama
+A guide to running DeepSeek R1 locally using Ollama.
+Follow these simple steps to run the DeepSeek R1 on your computer or laptop.
+Go to ollama.com and download and install ollama.
 Click on the Models tab on the Ollama Website and pull DeepSeek R1 based on your resources(RAM)
 Open the Windows command prompt and use this command -ollama pull deepseek-r1:1.5b
 

@@ -1,6 +1,6 @@
 # DeepSeek-R1-setup
 
-A guide to running DeepSeek R1 locally using Ollama.
+A guide to running DeepSeek R1 or any Open-Source LLM locally using Ollama.
 
 Follow these simple steps to run the DeepSeek R1 on your computer or laptop.
 
